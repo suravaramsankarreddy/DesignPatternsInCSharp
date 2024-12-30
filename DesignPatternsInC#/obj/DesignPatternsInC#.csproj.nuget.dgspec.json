@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInC#\\DesignPatternsInC#\\DesignPatternsInC#.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInCSharp\\DesignPatternsInC#\\DesignPatternsInC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInC#\\DesignPatternsInC#\\DesignPatternsInC#.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInCSharp\\DesignPatternsInC#\\DesignPatternsInC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInC#\\DesignPatternsInC#\\DesignPatternsInC#.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInCSharp\\DesignPatternsInC#\\DesignPatternsInC#.csproj",
         "projectName": "DesignPatternsInC#",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInC#\\DesignPatternsInC#\\DesignPatternsInC#.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInCSharp\\DesignPatternsInC#\\DesignPatternsInC#.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInC#\\DesignPatternsInC#\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DesignPatternsInCSharp\\DesignPatternsInC#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
