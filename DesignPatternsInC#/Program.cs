@@ -99,8 +99,23 @@ foreach (var vehicle in vehicles1)
 
 */
 
-BadOrder order = new BadOrder();
+//Coupling
+
+/*dOrder order = new BadOrder();
 order.PlaceOrder();
 
 Order order1 = new Order(new EmailSender());
 order1.PlaceOrder();
+
+Order order2 = new Order(new SmsSender());
+order1.PlaceOrder();
+*/
+
+//Compostion
+
+/*DesignPatternsInC_.src.OppPrinciples.Composition.Car car = new DesignPatternsInC_.src.OppPrinciples.Composition.Car();
+car.StartCar();
+*/
+
+//Liskov Substitution Principle
+
